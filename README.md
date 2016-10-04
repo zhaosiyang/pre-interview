@@ -5,8 +5,8 @@
 4. run $ node server
 
 # The user database schema
-name: string
-imageUrl: string
+- name: string
+- imageUrl: string
 
 # User related APIs
 1. GET: `/api/users`
