@@ -1,0 +1,19 @@
+{
+  "name": "neignbourcares",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bell": "^8.2.1",
+    "firebase": "^3.4.1",
+    "gcs-signed-urls": "^1.0.3",
+    "google-cloud": "^0.41.2",
+    "hapi": "^15.1.1",
+    "lodash": "^4.16.2"
+  }
+}
